@@ -1,0 +1,69 @@
+<!-- PROFESSOR EXPONENCIAL | MODULO 01 | AULA 01 | HOTMART CLUB | MOBILE-FIRST | TEXTO E HTML ESTATICO -->
+<div lang="pt-BR" style="display:block;box-sizing:border-box;width:100%;max-width:720px;margin:0 auto;padding:0 0 12px;font-family:Arial,Helvetica,sans-serif;color:#263449;background-color:#ffffff;font-size:19px;line-height:1.65;overflow-wrap:break-word;word-wrap:break-word;">
+  <div style="box-sizing:border-box;width:100%;margin:0;padding:17px 13px 18px;background-color:#ffffff;border:1px solid #e4e9f2;border-bottom:4px solid #f45b16;border-radius:15px;">
+    <p style="margin:0 0 12px;text-align:center;line-height:1;">
+      <img src="https://professorexponencial-commits.github.io/lab-prof-exponencial-m01-a01/logo-professor-exponencial-oficial.png" alt="Logo oficial Professor Exponencial com fundo escuro" width="192" style="display:inline-block;width:192px;max-width:72%;height:auto;margin:0 auto;border:0;border-radius:11px;vertical-align:middle;" />
+    </p>
+    <p style="margin:0 0 9px;text-align:center;font-size:15px;font-weight:bold;letter-spacing:0.6px;color:#12305f;line-height:1.35;">PROFESSOR EXPONENCIAL</p>
+    <p style="margin:0 0 12px;text-align:center;"><span style="display:inline-block;box-sizing:border-box;padding:6px 12px;border:1px solid #f45b16;border-radius:20px;color:#b84a11;background:#fff8f1;font-size:15px;line-height:1.4;font-weight:bold;">MÓDULO 01 · AULA 01</span></p>
+    <h2 style="font-family:Arial,Helvetica,sans-serif;margin:0 0 13px;text-align:center;font-size:27px;line-height:1.26;font-weight:800;letter-spacing:-0.3px;color:#112452;overflow-wrap:break-word;">O Mercado Não Reconhece Quem <span style="color:#e7560d;">Não Consegue Enxergar</span></h2>
+    <p style="font-size:19px;line-height:1.62;margin:0 0 13px;text-align:center;color:#40506b;">Um novo olhar sobre sua carreira, sobre o valor que você entrega e sobre a maneira como os alunos percebem seu trabalho.</p>
+    <div style="box-sizing:border-box;width:100%;margin:11px 0 0;padding:10px 12px;background:#f6f8fd;border-radius:9px;text-align:center;border:1px solid #e8edf7;">
+      <p style="margin:0;font-size:15px;line-height:1.45;color:#183363;font-weight:bold;">PERCEPÇÃO &bull; COMPETÊNCIA + COMUNICAÇÃO &bull; CONFIANÇA</p>
+    </div>
+  </div>
+
+  <div style="box-sizing:border-box;width:100%;padding:19px 13px 14px;margin:0;background:#ffffff;">
+    <h3 style="font-family:Arial,Helvetica,sans-serif;font-size:24px;line-height:1.3;color:#112452;margin:0 0 12px;font-weight:bold;">Boas-vindas à Aula 01</h3>
+    <p style="font-size:19px;line-height:1.63;color:#283852;text-align:left;overflow-wrap:break-word;margin:0 0 13px;">Por que professores competentes podem ter agendas tão diferentes? Nesta aula, vamos compreender como a <strong>percepção</strong> influencia o reconhecimento profissional. Conhecer a disciplina é essencial, mas também é importante comunicar com clareza o valor da orientação que você oferece.</p>
+    <p style="font-size:19px;line-height:1.63;color:#283852;text-align:left;overflow-wrap:break-word;margin:0 0 17px;">Você vai refletir sobre a relação entre <strong>competência e comunicação</strong>, o papel da <strong>confiança, da autoridade e da transformação</strong> e a importância de ampliar seu olhar sobre sua atuação.</p>
+
+    <div style="box-sizing:border-box;width:100%;padding:15px 14px;margin:0 0 20px;background:#fff6ee;border-left:4px solid #f45b16;border-radius:10px;">
+      <p style="font-size:15px;color:#ae440d;line-height:1.4;font-weight:bold;margin:0 0 6px;">A GRANDE PERGUNTA</p>
+      <p style="font-size:21px;line-height:1.4;color:#112452;font-weight:bold;margin:0;">Por que professores competentes têm agendas tão diferentes?</p>
+    </div>
+
+    <h3 style="font-family:Arial,Helvetica,sans-serif;font-size:24px;line-height:1.3;color:#112452;margin:0 0 12px;font-weight:bold;">O que você vai desenvolver</h3>
+    <div style="box-sizing:border-box;width:100%;padding:13px 13px;margin:0 0 9px;background:#f8faff;border:1px solid #e2e8f5;border-radius:10px;">
+      <p style="font-size:20px;line-height:1.35;margin:0 0 4px;color:#102858;font-weight:bold;"><span style="color:#e7560d;">01.</span> Percepção profissional</p>
+      <p style="font-size:19px;line-height:1.56;margin:0;color:#283852;">Refletir sobre como você é percebido e como deseja ser lembrado pelos alunos.</p>
+    </div>
+    <div style="box-sizing:border-box;width:100%;padding:13px 13px;margin:0 0 9px;background:#ffffff;border:1px solid #e2e8f5;border-radius:10px;">
+      <p style="font-size:20px;line-height:1.35;margin:0 0 4px;color:#102858;font-weight:bold;"><span style="color:#e7560d;">02.</span> Competência + comunicação</p>
+      <p style="font-size:19px;line-height:1.56;margin:0;color:#283852;">Reconhecer a importância de dominar sua disciplina e apresentar o valor do seu acompanhamento.</p>
+    </div>
+    <div style="box-sizing:border-box;width:100%;padding:13px 13px;margin:0 0 20px;background:#f8faff;border:1px solid #e2e8f5;border-radius:10px;">
+      <p style="font-size:20px;line-height:1.35;margin:0 0 4px;color:#102858;font-weight:bold;"><span style="color:#e7560d;">03.</span> Uma nova perspectiva</p>
+      <p style="font-size:19px;line-height:1.56;margin:0;color:#283852;">Enxergar novas possibilidades para sua atuação e escolher um primeiro passo, respeitando seu momento.</p>
+    </div>
+
+    <div style="box-sizing:border-box;width:100%;padding:15px 14px;margin:0 0 22px;background:#f5f8fe;border-left:4px solid #142d61;border-radius:10px;">
+      <h3 style="font-family:Arial,Helvetica,sans-serif;font-size:22px;line-height:1.3;color:#112452;margin:0 0 9px;font-weight:bold;">Objetivo da aula</h3>
+      <p style="font-size:19px;line-height:1.62;text-align:left;overflow-wrap:break-word;color:#283852;margin:0;">Identificar como você deseja ser percebido, valorizar sua competência e iniciar uma reflexão sobre como comunicar seu trabalho. Não é necessário ter uma apresentação perfeita agora: você vai aprimorá-la ao longo do curso.</p>
+    </div>
+
+    <h3 style="font-family:Arial,Helvetica,sans-serif;font-size:24px;line-height:1.3;color:#112452;margin:0 0 9px;font-weight:bold;">Materiais de apoio</h3>
+    <p style="font-size:19px;line-height:1.62;text-align:left;overflow-wrap:break-word;color:#283852;margin:0 0 22px;">Consulte o <strong>Mapa Mental — Percepção</strong> e a folha <strong>Minhas Anotações</strong>, disponíveis nos materiais desta aula na Hotmart. Eles ajudam a organizar o aprendizado e registrar o que você colocará em prática.</p>
+
+    <div style="box-sizing:border-box;width:100%;padding:17px 14px;margin:0 0 22px;border:1px solid #d8e2f4;border-radius:12px;background:#ffffff;">
+      <h3 style="font-family:Arial,Helvetica,sans-serif;font-size:22px;line-height:1.3;color:#112452;margin:0 0 10px;font-weight:bold;">Crie sua pasta de evolução</h3>
+      <p style="font-size:19px;line-height:1.59;color:#283852;margin:0 0 12px;">No seu computador, celular ou tablet, crie uma pasta chamada:</p>
+      <p style="box-sizing:border-box;width:100%;font-size:19px;line-height:1.48;text-align:center;color:#11346c;font-weight:bold;padding:11px 8px;margin:0 0 12px;border:1px solid #dbe5f7;border-radius:8px;background:#f5f8fe;overflow-wrap:break-word;">Laboratório do Professor Exponencial</p>
+      <p style="font-size:19px;line-height:1.62;text-align:left;overflow-wrap:break-word;color:#283852;margin:0;">Guarde nessa pasta o <strong>backup</strong> e o <strong>caderno</strong> de cada aula. O botão <strong>Salvar</strong> mantém o progresso no navegador; baixar uma cópia é importante para acompanhar sua evolução e conservar seus registros.</p>
+    </div>
+
+    <div style="box-sizing:border-box;width:100%;padding:18px 13px 16px;margin:0 0 15px;border:2px solid #f8ba91;border-radius:12px;background:#fff6ef;">
+      <p style="font-size:14px;letter-spacing:0.4px;font-weight:bold;color:#af4209;margin:0 0 7px;line-height:1.4;">HORA DE COLOCAR EM PRÁTICA</p>
+      <h3 style="font-family:Arial,Helvetica,sans-serif;font-size:24px;line-height:1.27;color:#112452;margin:0 0 11px;font-weight:bold;">Laboratório do Professor Exponencial</h3>
+      <p style="font-size:19px;line-height:1.62;text-align:left;overflow-wrap:break-word;color:#283852;margin:0 0 14px;">Responda às situações práticas, confira o gabarito comentado, registre suas ideias e receba orientações para aperfeiçoá-las. Se ainda não souber responder, registre seu ponto de partida: você desenvolverá suas habilidades ao longo do curso.</p>
+      <p style="margin:0 0 10px;text-align:center;line-height:1.4;">
+        <a href="https://professorexponencial-commits.github.io/lab-prof-exponencial-m01-a01/" target="_blank" rel="noopener noreferrer" style="display:block;box-sizing:border-box;width:100%;padding:16px 10px;margin:0;background-color:#ed5910;color:#ffffff;text-align:center;text-decoration:none;border-radius:9px;border:1px solid #d95009;font-size:19px;line-height:1.4;font-weight:bold;overflow-wrap:break-word;">ACESSAR O LABORATÓRIO DO PROFESSOR EXPONENCIAL</a>
+      </p>
+      <p style="font-size:15px;line-height:1.45;text-align:center;color:#5d5362;margin:0 0 6px;">O laboratório abre em outra aba.</p>
+      <p style="font-size:15px;line-height:1.45;text-align:center;color:#274270;margin:0;overflow-wrap:anywhere;">Se o botão não abrir, acesse: <a href="https://professorexponencial-commits.github.io/lab-prof-exponencial-m01-a01/" target="_blank" rel="noopener noreferrer" style="font-size:15px;color:#144a95;text-decoration:underline;overflow-wrap:anywhere;">link direto do laboratório</a>.</p>
+    </div>
+
+    <p style="font-size:18px;line-height:1.58;color:#44506a;margin:14px 0 0;">Quando terminar, volte à Hotmart e siga para a próxima aula. O quiz avaliativo será realizado ao final do módulo.</p>
+  </div>
+</div>
+<!-- FIM | APRESENTACAO HOTMART | MODULO 01 AULA 01 -->

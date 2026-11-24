@@ -1,0 +1,15 @@
+HOTMART | MÓDULO 01 – AULA 01 | PROFESSOR EXPONENCIAL
+
+1. EXTRAIA este arquivo ZIP no computador.
+2. No GitHub do repositório lab-prof-exponencial-m01-a01, use Add file > Upload files para enviar SOMENTE: logo-professor-exponencial-oficial.png
+   Link: https://github.com/professorexponencial-commits/lab-prof-exponencial-m01-a01/upload/main
+3. Clique em Commit changes. NÃO substitua index.html (é o laboratório).
+4. Confirme que o logo abre diretamente em:
+   https://professorexponencial-commits.github.io/lab-prof-exponencial-m01-a01/logo-professor-exponencial-oficial.png
+5. Na Hotmart, entre no editor da descrição da aula, abra Código-fonte e substitua o HTML antigo pelo texto INTEGRAL de 01_CODIGO_COLAR_NA_HOTMART.txt. Salve e confira no celular.
+6. O botão já leva diretamente ao laboratório da Aula 01:
+   https://professorexponencial-commits.github.io/lab-prof-exponencial-m01-a01/
+
+IMPORTANTE: Se a Hotmart continuar removendo o logo (mesmo hospedado no GitHub), use INSERIR IMAGEM na barra de ferramentas do editor e cole a URL pública do passo 4. A Hotmart pode retirar tags e estilos da descrição; o código não consegue obrigá-la a exibir uma imagem bloqueada.
+
+ESTA VERSÃO NÃO USA O DESENHO DOS PROFESSORES, conforme preferência informada, para priorizar logo, título, descrição e acesso ao laboratório. Nenhum arquivo do laboratório foi modificado.
