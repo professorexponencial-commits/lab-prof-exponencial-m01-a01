@@ -1,0 +1,35 @@
+LABORATÓRIO DO PROFESSOR EXPONENCIAL
+MÓDULO 01 — AULA 01
+
+Este pacote contém somente o laboratório da Aula 01.
+
+PUBLICAÇÃO NO REPOSITÓRIO JÁ CRIADO:
+https://github.com/professorexponencial-commits/laboratorio-professor-exponencial
+
+1. Extraia o arquivo ZIP. Dentro dele está index.html.
+2. Abra o repositório acima e clique no arquivo index.html atual (página geral dos módulos).
+3. Clique no ícone do lápis para editar; para substituir integralmente, é mais simples:
+   a) delete o index.html atual pelo menu do arquivo, confirmando o commit;
+   b) volte à raiz do repositório, clique em Add file > Upload files;
+   c) envie o NOVO index.html extraído do ZIP;
+   d) confirme Commit changes.
+   Alternativa: abra Add file > Upload files e arraste o index.html; caso o GitHub apresente substituição, confirme-a.
+4. Ative GitHub Pages em Settings > Pages > Deploy from a branch > main > /(root) > Save.
+
+PÁGINA DIRETA DA AULA 01 (APÓS PUBLICAÇÃO):
+https://professorexponencial-commits.github.io/laboratorio-professor-exponencial/
+
+Este endereço deve ser usado no botão da descrição da Aula 01 da Hotmart.
+A página NÃO apresenta a lista dos módulos: abre direto o laboratório da Aula 01.
+
+PRÓXIMAS AULAS:
+No mesmo repositório podemos adicionar, sem página inicial intermediária:
+modulo-01/aula-02/index.html
+modulo-01/aula-03/index.html
+modulo-02/aula-01/index.html
+(e assim por diante).
+
+Cada botão da Hotmart aponta diretamente ao endereço da aula específica.
+NÃO é necessário criar repositório novo para cada aula.
+
+O arquivo HTML inclui imagens no próprio documento e funciona como página estática.
