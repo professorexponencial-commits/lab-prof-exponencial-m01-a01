@@ -1,0 +1,48 @@
+LABORATÓRIO DO PROFESSOR EXPONENCIAL — MÓDULO 01, AULA 01
+APRESENTAÇÃO DA AULA PARA A HOTMART — VERSÃO FINAL
+
+LINK DIRETO DO LABORATÓRIO:
+https://professorexponencial-commits.github.io/lab-prof-exponencial-m01-a01/
+
+ARQUIVOS INCLUÍDOS:
+01_CODIGO_COLAR_NA_HOTMART_SEM_UPLOAD_DE_IMAGENS.txt
+    Código-fonte HTML autocontido, com o logo e a ilustração incorporados.
+    Copie todo o conteúdo e cole no editor de código-fonte da descrição da aula.
+    ATENÇÃO: alguns editores podem remover imagens incorporadas em URLs data:.
+    Confira o resultado depois de salvar a aula.
+
+02_CODIGO_HOTMART_IMAGENS_HOSPEDADAS_RECOMENDADO.txt
+    Versão mais estável após hospedar as duas imagens no repositório do GitHub.
+    Para ativar as imagens desta versão, envie estes arquivos para a RAIZ do repositório:
+       logo-professor-exponencial.jpg
+       professores-novos-caminhos.jpg
+    Envio: https://github.com/professorexponencial-commits/lab-prof-exponencial-m01-a01/upload/main
+    Não substitua o arquivo index.html, que é o laboratório funcionando.
+    Depois, cole o conteúdo deste .txt na descrição da aula na Hotmart.
+
+03_VISUALIZAR_A_APRESENTACAO.html
+    Prévia do design em arquivo HTML independente, com imagens incorporadas.
+    Não é o código para colar, pois inclui as tags html/head/body.
+
+logo-professor-exponencial.jpg
+professores-novos-caminhos.jpg
+    Imagens oficiais preparadas para hospedagem no repositório.
+
+DICA DE PUBLICAÇÃO HOTMART:
+1. Abra a Aula 01 do Módulo 01 em seu editor da Hotmart.
+2. Localize o campo da descrição da aula e a opção Código-fonte (ícone <>).
+3. Cole TODO o conteúdo do .txt escolhido (sem tags html/head/body).
+4. Salve e confira a visualização da aula no celular e no computador.
+5. Teste o botão laranja. Ele deve abrir o laboratório no GitHub Pages.
+
+TEMA CLARO/ESCURO:
+A Hotmart permite temas claro e escuro na área de membros, mas NÃO oferece
+uma variável documentada para que um bloco HTML de descrição reconheça
+com segurança a preferência de tema escolhida dentro do Club.
+Por isso o código usa um cartão de fundo claro e cores de contraste próprio.
+
+BASE PEDAGÓGICA: Mapa Mental — Percepção / Minhas Anotações,
+ambos fornecidos para esta aula. O quiz oficial fica no final do módulo na Hotmart.
+
+NÃO É NECESSÁRIO criar outro repositório. O botão já aponta para o laboratório
+Módulo 01 / Aula 01 publicado em https://professorexponencial-commits.github.io/lab-prof-exponencial-m01-a01/

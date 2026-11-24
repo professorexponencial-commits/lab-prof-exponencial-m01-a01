@@ -1,0 +1,78 @@
+<!-- PROFESSOR EXPONENCIAL | HOTMART | MÓDULO 01 AULA 01 | HTML ESTÁTICO -->
+<div style="background-color:#f4f6fb!important;padding:22px 10px;color:#1c2b43;font-family:Arial,Helvetica,sans-serif;font-size:19px;line-height:1.7;">
+  <div style="max-width:930px;width:100%;margin:0 auto;background-color:#ffffff!important;border:1px solid #e2e7f0;border-radius:22px;overflow:hidden;box-shadow:0 12px 38px rgba(11,23,78,.08);">
+    <div style="padding:27px 28px 28px;background-color:#ffffff!important;border-bottom:5px solid #ff5b0b;">
+      <div style="margin:0 0 20px;text-align:left;">
+        <img src="https://professorexponencial-commits.github.io/lab-prof-exponencial-m01-a01/logo-professor-exponencial.jpg" alt="Logo oficial Professor Exponencial" style="width:224px;max-width:72%;height:auto;display:block;margin:0;border:0;" />
+      </div>
+      <div style="display:inline-block;margin:0 0 17px;border:2px solid #ff5b0b;border-radius:999px;padding:6px 14px;color:#b5450a;font-size:15px;font-weight:800;letter-spacing:.55px;background-color:#fff9f4;">MÓDULO 01 &nbsp;•&nbsp; AULA 01</div>
+      <div style="font-size:40px;line-height:1.16;letter-spacing:-1.1px;color:#10234e;font-weight:800;margin:2px 0 12px;">O Mercado Não Reconhece Quem <span style="color:#e85a11;">Não Consegue Enxergar</span></div>
+      <p style="font-size:19px;line-height:1.73;color:#263449;text-align:justify;hyphens:auto;overflow-wrap:break-word;margin:0 0 15px;margin:0 0 12px;font-weight:500;color:#34445b;">Um novo olhar sobre a sua carreira, o valor que você entrega e a maneira como os alunos percebem o seu trabalho.</p>
+      <div style="max-width:430px;margin:14px auto 0;padding:0;text-align:center;">
+        <img src="https://professorexponencial-commits.github.io/lab-prof-exponencial-m01-a01/professores-novos-caminhos.jpg" alt="Dois professores diante de uma porta aberta para novas possibilidades" style="display:block;width:100%;max-width:430px;height:auto;margin:0 auto;border:0;border-radius:14px;" />
+      </div>
+      <p style="font-size:15px;line-height:1.5;font-weight:700;letter-spacing:.5px;color:#657088;text-align:center;margin:11px 0 0;">A PRIMEIRA MUDANÇA COMEÇA NA FORMA DE ENXERGAR.</p>
+    </div>
+
+    <div style="padding:30px 28px 32px;">
+      <div style="border-left:5px solid #ff5b0b;padding:0 0 0 15px;margin-bottom:18px;">
+        <div style="color:#112452;font-size:27px;line-height:1.28;font-weight:800;margin:0 0 17px;letter-spacing:-.45px;margin:0;">Boas-vindas à Aula 01</div>
+      </div>
+      <p style="font-size:19px;line-height:1.73;color:#263449;text-align:justify;hyphens:auto;overflow-wrap:break-word;margin:0 0 15px;">Por que professores competentes podem ter agendas tão diferentes? Nesta aula, você vai compreender como a <strong>percepção do mercado</strong> influencia o reconhecimento profissional. Ter conhecimento é essencial, mas também é importante saber comunicar, com clareza, o valor da orientação que você oferece.</p>
+      <p style="font-size:19px;line-height:1.73;color:#263449;text-align:justify;hyphens:auto;overflow-wrap:break-word;margin:0 0 15px;">Vamos observar a relação entre <strong>competência e comunicação</strong>, entender o papel da <strong>confiança, da autoridade e da transformação</strong> e descobrir por que o primeiro passo é ampliar a maneira como você enxerga sua atuação docente.</p>
+
+      <div style="background-color:#fff8f0;border:1px solid #ffd4b9;border-radius:15px;padding:20px 21px;margin:24px 0;">
+        <div style="font-size:18px;font-weight:800;color:#aa420b;line-height:1.35;margin:0 0 9px;">A GRANDE PERGUNTA DA AULA</div>
+        <p style="font-size:22px;line-height:1.5;font-weight:800;color:#142657;margin:0;">Por que professores competentes têm agendas tão diferentes?</p>
+      </div>
+
+      <div style="color:#112452;font-size:27px;line-height:1.28;font-weight:800;margin:0 0 17px;letter-spacing:-.45px;">O que você vai desenvolver</div>
+      <div style="border:1px solid #e1e8f4;border-radius:15px;overflow:hidden;margin:0 0 22px;">
+        <div style="padding:17px 19px;background-color:#f9fbff;border-bottom:1px solid #e1e8f4;">
+          <div style="font-size:20px;color:#122654;font-weight:800;line-height:1.4;margin:0 0 6px;"><span style="color:#e85a11;">01.</span> Percepção profissional</div>
+          <p style="font-size:19px;line-height:1.62;color:#263449;margin:0;overflow-wrap:break-word;">Refletir sobre como os alunos podem enxergar seu trabalho e como você deseja ser lembrado.</p>
+        </div>
+        <div style="padding:17px 19px;background-color:#ffffff;border-bottom:1px solid #e1e8f4;">
+          <div style="font-size:20px;color:#122654;font-weight:800;line-height:1.4;margin:0 0 6px;"><span style="color:#e85a11;">02.</span> Competência + comunicação</div>
+          <p style="font-size:19px;line-height:1.62;color:#263449;margin:0;overflow-wrap:break-word;">Reconhecer que dominar a disciplina e comunicar o valor do seu acompanhamento são habilidades complementares.</p>
+        </div>
+        <div style="padding:17px 19px;background-color:#f9fbff;">
+          <div style="font-size:20px;color:#122654;font-weight:800;line-height:1.4;margin:0 0 6px;"><span style="color:#e85a11;">03.</span> Primeiro passo</div>
+          <p style="font-size:19px;line-height:1.62;color:#263449;margin:0;overflow-wrap:break-word;">Ampliar a visão sobre sua atuação e identificar uma mudança prática que pode começar agora, no seu ritmo.</p>
+        </div>
+      </div>
+
+      <div style="background-color:#f4f8ff;border:1px solid #dbe5f4;border-left:5px solid #112d69;border-radius:14px;padding:20px 21px;margin:0 0 23px;">
+        <div style="font-size:23px;font-weight:800;color:#122654;line-height:1.35;margin:0 0 10px;">Objetivo da aula</div>
+        <p style="font-size:19px;line-height:1.73;color:#263449;text-align:justify;hyphens:auto;overflow-wrap:break-word;margin:0 0 15px;margin:0;">Identificar como você deseja ser percebido, reconhecer o valor da sua competência e iniciar uma reflexão sobre como apresentar melhor sua atuação como professor. Você não precisa chegar a uma apresentação perfeita agora: vamos aprimorá-la ao longo do curso.</p>
+      </div>
+
+      <div style="color:#112452;font-size:27px;line-height:1.28;font-weight:800;margin:0 0 17px;letter-spacing:-.45px;">Seus materiais de apoio</div>
+      <p style="font-size:19px;line-height:1.73;color:#263449;text-align:justify;hyphens:auto;overflow-wrap:break-word;margin:0 0 15px;">Consulte o <strong>Mapa Mental — Percepção</strong> e a folha <strong>Minhas Anotações</strong> nos materiais desta aula, aqui na Hotmart. Eles ajudam a organizar os conceitos e registrar o que você pretende colocar em prática.</p>
+
+      <div style="border:2px solid #d4e0f4;border-radius:17px;background-color:#ffffff;padding:22px 21px;margin:22px 0 27px;">
+        <div style="font-size:24px;font-weight:800;line-height:1.35;color:#10234e;margin:0 0 12px;">Sua pasta de evolução</div>
+        <p style="font-size:19px;line-height:1.73;color:#263449;text-align:justify;hyphens:auto;overflow-wrap:break-word;margin:0 0 15px;">Antes de iniciar, crie uma pasta no <strong>celular, tablet ou computador</strong> com este nome:</p>
+        <div style="background-color:#f2f6ff;border:1px solid #d2def3;border-radius:11px;padding:13px 14px;margin:5px 0 16px;font-weight:800;font-size:21px;line-height:1.4;color:#12316b;text-align:center;overflow-wrap:break-word;">Laboratório do Professor Exponencial</div>
+        <p style="font-size:19px;line-height:1.73;color:#263449;text-align:justify;hyphens:auto;overflow-wrap:break-word;margin:0 0 15px;">A cada aula, guarde nessa pasta os seus registros. No laboratório, utilize <strong>Salvar</strong> para continuar no mesmo navegador e <strong>Baixar backup</strong> ou <strong>Baixar caderno para imprimir</strong> para conservar sua própria cópia.</p>
+        <p style="font-size:19px;line-height:1.73;color:#263449;text-align:justify;hyphens:auto;overflow-wrap:break-word;margin:0 0 15px;margin:0;">Assim, você poderá voltar aos seus primeiros textos e perceber como sua visão profissional evoluiu durante o curso.</p>
+      </div>
+
+      <div style="border-radius:20px;border:2px solid #ffb98c;background-color:#fff7f1;padding:26px 21px;margin:22px 0 24px;">
+        <div style="font-size:15px;font-weight:800;letter-spacing:1.15px;color:#9d3d10;margin:0 0 10px;">HORA DE COLOCAR EM PRÁTICA</div>
+        <div style="font-size:29px;line-height:1.23;font-weight:800;color:#132654;margin:0 0 14px;">Seu Laboratório do Professor Exponencial</div>
+        <p style="font-size:19px;line-height:1.73;color:#263449;text-align:justify;hyphens:auto;overflow-wrap:break-word;margin:0 0 15px;">Agora você vai analisar situações da prática docente, conferir respostas comentadas, escrever suas ideias e receber orientações para aperfeiçoá-las. Se ainda não souber responder a alguma pergunta, registre seu ponto de partida: o importante é começar.</p>
+        <div style="text-align:center;margin:22px auto 11px;max-width:620px;">
+          <a href="https://professorexponencial-commits.github.io/lab-prof-exponencial-m01-a01/" target="_blank" rel="noopener noreferrer" style="display:block;box-sizing:border-box;width:100%;background-color:#f05a11!important;color:#ffffff!important;border:2px solid #e04e05;border-radius:13px;padding:20px 17px;text-decoration:none;font-size:21px;font-weight:800;line-height:1.45;text-align:center;letter-spacing:.15px;">ACESSAR O LABORATÓRIO DO<br/>PROFESSOR EXPONENCIAL&nbsp; ↗</a>
+        </div>
+        <p style="font-size:16px;line-height:1.55;color:#5b5260;text-align:center;margin:10px 0 0;">Abre a atividade da Aula 01 em uma nova aba.</p>
+      </div>
+
+      <div style="border-top:1px solid #e4e9f1;margin:26px 0 0;padding:19px 4px 2px;">
+        <div style="font-size:21px;font-weight:800;color:#132654;margin:0 0 7px;">Continue sua jornada</div>
+        <p style="font-size:19px;line-height:1.73;color:#263449;text-align:justify;hyphens:auto;overflow-wrap:break-word;margin:0 0 15px;margin:0;">Quando terminar, retorne à Hotmart e siga para a próxima aula. O quiz avaliativo será realizado ao final do módulo, dentro do próprio curso.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- FIM DA APRESENTAÇÃO DA AULA 01 -->
